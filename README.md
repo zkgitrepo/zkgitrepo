@@ -12,7 +12,7 @@ I've been building enterprise software since 1997 — across Pakistan, Singapore
  
 Currently senior engineer and solution architect at Camp Australia — a 3,500+ employee national childcare organisation — where I own and evolve OCW (One Customer Web), the company's core line-of-business platform, and personally built its communications infrastructure: a Razor-based multi-channel messaging engine handling email, SMS and push notifications to hundreds of thousands of Australian families.
  
-Outside the day job, I co-founded **Limofied** in 2013 — an Uber-competing Australian rideshare platform I built from scratch, self-funded, and ran across five states with international franchise operations in Pakistan. I also contributed technically to **Remindax**, a live B2B SaaS platform for tracking license and document expiries, now serving customers globally.
+Outside the day job, I co-founded **Limofied** in 2014 — an Uber-competing Australian rideshare platform I built from scratch, self-funded, and ran across five states with international franchise operations in Pakistan. I also contributed technically to **Remindax**, a live B2B SaaS platform for tracking license and document expiries, now serving customers globally.
  
 I build things end to end. Not just code — products.
  
